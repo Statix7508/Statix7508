@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm  from Mexico<br><br>- 🔭 I’m working as a Minecraft Plugin Developer.<br>- 📚 I'm currently learning Html and Css.<br>- ⚡ In my free time I play videogames.</p>
 
 ###
 
